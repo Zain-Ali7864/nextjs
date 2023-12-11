@@ -113,7 +113,7 @@ const Page = () => {
         </form>
       </div>
 
-      <div className="flex text-lg font-semibold px-4 lg:gap-[800px] md:gap-[780px] gap-[160px]">
+      <div className="flex text-lg font-semibold px-4 lg:gap-[850px] md:gap-[780px] gap-[160px]">
         <div>Task</div>
         <div>Description</div>
       </div>
